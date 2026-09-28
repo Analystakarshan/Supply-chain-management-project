@@ -1,11 +1,17 @@
 # Supply-chain-management-project
 
 Key Analysis
+
 Supplier performance and lead time
+
 Total cost and unit cost analysis
+
 Revenue by supplier, product, and location
+
 Defect rate and inspection results
+
 SKU and order quantity analysis
+
 Tools Used
 
 Power BI | Power Query | DAX | Excel
